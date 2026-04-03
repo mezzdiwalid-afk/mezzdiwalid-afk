@@ -13,11 +13,11 @@
 ---
 
 ## 💡 Ma Philosophie & Éthique de Travail
-> *"Le Growth n'est pas une question de volume, c'est l'art d'aligner la valeur du produit avec les besoins réels de l'utilisateur."*
+> *"Le Growth n'est pas une question de volume, c'est l'art d'aligner la valeur du produit avec les besoins réels de l'utilisateur via une approche rigoureuse et data-driven."*
 
-* **L'Empathie Data-Driven :** Utiliser la donnée pour comprendre l'humain.
-* **La Rétention d'abord :** Construire des systèmes où chaque utilisateur trouve une valeur durable.
-* **L'Expérimentation :** Tester et itérer pour optimiser chaque étape du funnel de conversion.
+* **L'Empathie Data-Driven :** Utiliser la donnée pour comprendre l'humain et ses besoins réels.
+* **La Rétention avant tout :** Construire des systèmes où chaque utilisateur trouve une valeur durable.
+* **L'Expérimentation Continue :** Tester, apprendre et itérer pour optimiser chaque étape du funnel.
 
 ---
 
@@ -31,25 +31,43 @@
 
 ---
 
-## 🗂️ Études de Cas (Impact & Résultats)
+## 🗂️ The Portfolio — Études de Cas & Proof of Work
 
-### 🗞️ Groupe Le Monde | [cite_start]CRM & Growth (2025-2026) [cite: 5]
+### 🗞️ Groupe Le Monde | CRM & Growth (2025-2026)
 
 | 🔴 Problème | 🟡 Solution | 🟢 Impact |
 | :--- | :--- | :--- |
-| [cite_start]Conversion "Inscrit → Abonné" trop faible [cite: 8] | [cite_start]Scénarios de bienvenue automatisés & omnicanaux [cite: 8] | [cite_start]**+12% de conversion** [cite: 8] |
-| [cite_start]Risque de churn non anticipé [cite: 9] | [cite_start]Scoring d'engagement pour détection précoce [cite: 9] | [cite_start]**-5% d'attrition** [cite: 9] |
-| [cite_start]Campagnes Email/Push sous-optimales [cite: 12] | [cite_start]A/B testing systématique (objets, CTA, timing) [cite: 12] | [cite_start]**Open Rate +15% / CTR +8%** [cite: 12] |
+| Conversion "Inscrit → Abonné" insuffisante | Scénarios de bienvenue automatisés & omnicanaux | **+12% de conversion** |
+| Risque de churn non anticipé | Scoring d'engagement pour détection précoce | **-5% d'attrition** |
+| Campagnes Email/Push sous-optimales | A/B testing systématique (objets, CTA, timing) | **Open Rate +15% / CTR +8%** |
 
 <br/>
 
-### 🏢 Altwork | [cite_start]Lead Generation B2B (2021-2024) [cite: 14]
+### 🏢 Altwork | Lead Generation B2B (2021-2024)
 
 | 🔴 Problème | 🟡 Solution | 🟢 Impact |
 | :--- | :--- | :--- |
-| [cite_start]Pipeline commercial irrégulier [cite: 16] | [cite_start]Outreach multicanal structuré & CRM HubSpot [cite: 16, 17] | [cite_start]**150+ leads qualifiés / mois** [cite: 16] |
-| [cite_start]Transformation Lead vers RDV faible [cite: 19] | [cite_start]Workflows de Lead Scoring automatisés [cite: 19] | [cite_start]**+20% de conversion** [cite: 19] |
-| [cite_start]Messages de prospection génériques [cite: 20] | [cite_start]Copywriting personnalisé pour 3 ICP distincts [cite: 20] | [cite_start]**Réponse moyenne 12%** [cite: 18] |
+| Pipeline commercial irrégulier | Outreach multicanal structuré & CRM HubSpot | **150+ leads qualifiés / mois** |
+| Transformation Lead vers RDV faible | Workflows de Lead Scoring automatisés | **+20% de conversion** |
+| Messages de prospection génériques | Copywriting personnalisé pour 3 ICP distincts | **Réponse moyenne 12%** |
+
+<br/>
+
+### 📞 Teleperformance | Pilotage & Analyse de Données (2018-2021)
+
+| 🔴 Problème | 🟡 Solution | 🟢 Impact |
+| :--- | :--- | :--- |
+| Flux de données massifs inexploités | Traitement SQL/Excel de 50k+ lignes hebdomadaires | **Pilotage & Dashboards qualité** |
+| Irritants clients non identifiés | Analyse sémantique des motifs de réclamations | **3 irritants majeurs résolus** |
+| Rétention lors des résiliations | Stratégies de réengagement personnalisées | **85% de taux de rétention** |
+
+---
+
+## 🎓 Éducation & Certifications
+
+* [cite_start]**MS2 Marketing Digital & Innovation** — Digital College, Paris (2024-2025) [cite: 31]
+* [cite_start]**M2 Marketing Stratégique** — Université Mohammed V, Rabat [cite: 32]
+* [cite_start]📜 **Certifications :** HubSpot Inbound & SEO, Google GA4, Microsoft IA Générative[cite: 39].
 
 ---
 
