@@ -7,7 +7,7 @@
 </p>
 
 <p align="center">
-  <img src="moi.jpg" alt="Walid Mezdi" width="130" style="border-radius:50%; border: 3px solid #00D4FF; padding: 5px;"/>
+  <img src="https://github.com/mezzdiwalid-afk.png" alt="Walid Mezdi" width="130" style="border-radius:50%; border: 3px solid #00D4FF; padding: 5px;"/>
 </p>
 
 ---
@@ -15,14 +15,13 @@
 ## 💡 Ma Philosophie & Éthique de Travail
 > *"Le Growth n'est pas une question de volume, c'est l'art d'aligner la valeur du produit avec les besoins réels de l'utilisateur."*
 
-En tant qu'expert Growth, ma démarche repose sur trois piliers :
-1. **L'Empathie Data-Driven :** Utiliser la donnée pour comprendre l'humain, pas seulement pour générer des clics.
-2. **La Rétention avant l'Acquisition :** Construire des systèmes durables où chaque utilisateur trouve une valeur immédiate.
-3. **L'Expérimentation Continue :** Tester, apprendre et itérer sans cesse pour optimiser chaque étape du funnel.
+* **L'Empathie Data-Driven :** Utiliser la donnée pour comprendre l'humain.
+* **La Rétention d'abord :** Construire des systèmes où chaque utilisateur trouve une valeur durable.
+* **L'Expérimentation :** Tester et itérer pour optimiser chaque étape du funnel de conversion.
 
 ---
 
-## ⚙️ Core Expertise & Tech Stack
+## ⚙️ Expertise & Tech Stack
 
 | **CRM & Automation** | **Data & Analytics** | **Acquisition & SEO** |
 | :--- | :--- | :--- |
@@ -32,51 +31,29 @@ En tant qu'expert Growth, ma démarche repose sur trois piliers :
 
 ---
 
-## 🗂️ The Portfolio — Selected Case Studies
+## 🗂️ Études de Cas (Impact & Résultats)
 
-### 🗞️ Groupe Le Monde | CRM & Growth (2025-2026)
+### 🗞️ Groupe Le Monde | [cite_start]CRM & Growth (2025-2026) [cite: 5]
 
 | 🔴 Problème | 🟡 Solution | 🟢 Impact |
 | :--- | :--- | :--- |
-| Conversion "Inscrit → Abonné" insuffisante | Conception de scénarios de bienvenue automatisés & omnicanaux | **+12% de conversion** |
-| Attrition (Churn) non anticipée | Identification de scores d'engagement pour détection précoce | **-5% d'attrition** |
-| Campagnes Email/Push sous-optimisées | A/B testing systématique sur les objets et les CTA | **Open Rate +15% / CTR +8%** |
-| **Outils utilisés** | **Selligent, Batch, Looker Studio, A/B Testing** | |
+| [cite_start]Conversion "Inscrit → Abonné" trop faible [cite: 8] | [cite_start]Scénarios de bienvenue automatisés & omnicanaux [cite: 8] | [cite_start]**+12% de conversion** [cite: 8] |
+| [cite_start]Risque de churn non anticipé [cite: 9] | [cite_start]Scoring d'engagement pour détection précoce [cite: 9] | [cite_start]**-5% d'attrition** [cite: 9] |
+| [cite_start]Campagnes Email/Push sous-optimales [cite: 12] | [cite_start]A/B testing systématique (objets, CTA, timing) [cite: 12] | [cite_start]**Open Rate +15% / CTR +8%** [cite: 12] |
 
 <br/>
 
-### 🏢 Altwork | Lead Generation B2B (2021-2024)
+### 🏢 Altwork | [cite_start]Lead Generation B2B (2021-2024) [cite: 14]
 
 | 🔴 Problème | 🟡 Solution | 🟢 Impact |
 | :--- | :--- | :--- |
-| Pipeline commercial sous-alimenté | Mise en place d'un outreach multicanal structuré | **150+ leads qualifiés / mois** |
-| CRM HubSpot désorganisé | Restructuration et normalisation de 10 000+ contacts | **Fiabilité data 100%** |
-| Faible taux de transformation RDV | Déploiement de workflows de Lead Scoring automatisés | **+20% conversion Lead → RDV** |
-| **Outils utilisés** | **HubSpot CRM, Lead Scoring, Copywriting B2B** | |
-
-<br/>
-
-### 📊 Teleperformance | Data & Customer Journey (2018-2021)
-
-| 🔴 Problème | 🟡 Solution | 🟢 Impact |
-| :--- | :--- | :--- |
-| Flux de données massifs inexploités | Traitement SQL/Excel de 50k+ lignes hebdomadaires | **Pilotage temps réel** |
-| Irritants clients inconnus | Analyse sémantique des motifs de réclamations | **3 irritants majeurs résolus** |
-| Rétention lors des résiliations | Stratégies de négociation et de réengagement personnalisées | **85% de taux de rétention** |
-| **Outils utilisés** | **SQL, Excel Avancé, Analyse Comportementale** | |
+| [cite_start]Pipeline commercial irrégulier [cite: 16] | [cite_start]Outreach multicanal structuré & CRM HubSpot [cite: 16, 17] | [cite_start]**150+ leads qualifiés / mois** [cite: 16] |
+| [cite_start]Transformation Lead vers RDV faible [cite: 19] | [cite_start]Workflows de Lead Scoring automatisés [cite: 19] | [cite_start]**+20% de conversion** [cite: 19] |
+| [cite_start]Messages de prospection génériques [cite: 20] | [cite_start]Copywriting personnalisé pour 3 ICP distincts [cite: 20] | [cite_start]**Réponse moyenne 12%** [cite: 18] |
 
 ---
 
-## 🎓 Éducation & Certifications
-
-* **MS2 Marketing Digital & Innovation** — Digital College, Paris (2024-2025)
-* **M2 Marketing Stratégique** — Université Mohammed V, Rabat
-* 📜 **Certifications :** HubSpot Inbound & SEO, Google GA4, Microsoft IA Générative.
-
----
-
-## 📊 GitHub Ecosystem (Live Stats)
-
+## 📊 Statistiques Live
 <p align="center">
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=mezzdiwalid-afk&show_icons=true&theme=radical&count_private=true" />
   <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mezzdiwalid-afk&layout=compact&theme=radical" />
@@ -84,8 +61,7 @@ En tant qu'expert Growth, ma démarche repose sur trois piliers :
 
 ---
 
-## 🌐 Let's Connect!
-
+## 🌐 Contactons-nous
 <div align="center">
   <a href="https://linkedin.com/in/walid-mezdi">
     <img src="https://img.shields.io/badge/LinkedIn-Mezdi_Walid-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
@@ -94,7 +70,3 @@ En tant qu'expert Growth, ma démarche repose sur trois piliers :
     <img src="https://img.shields.io/badge/Email-Contact_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </div>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Open_to_new_opportunities-Growth_|_CRM_|_Data-success?style=flat-square" />
-</p>
